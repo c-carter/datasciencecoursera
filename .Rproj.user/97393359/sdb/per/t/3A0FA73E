@@ -1,0 +1,18 @@
+{
+    "contents" : "##HelloWorld",
+    "created" : 1435445397634.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2683912894",
+    "id" : "3A0FA73E",
+    "lastKnownWriteTime" : 1435446227,
+    "path" : "~/datasciencecoursera/HelloWorld.Rmd",
+    "project_path" : "HelloWorld.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
